@@ -57,4 +57,17 @@ h2 {
 
 #barcelona {
     background-color: #800000;
+    transition: transform 0.5s;
+    text-shadow: 0 0 5px #01579b;
+}
+
+#bombay {
+    background-color: #03a9f4;
+}
+
+#belgium {
+    background-color: #d32f2f;
+}
+#bangladesh {
+    background-color: #FF0000;
 }
